@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - In point
+ * return: 0
+ */
 
 int main(void)
 {
