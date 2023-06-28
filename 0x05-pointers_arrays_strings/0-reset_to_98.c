@@ -1,4 +1,6 @@
 #include "main.h"
+
+
 /**A function that takes a pointer
  *@n: value of pointer
  *to an int as a parameter and update it's value
