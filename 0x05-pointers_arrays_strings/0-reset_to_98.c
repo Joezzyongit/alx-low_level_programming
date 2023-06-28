@@ -1,7 +1,8 @@
 #include "main.h"
-/** A function that takes a pointer
- * @n: value of pointer
- * to an int as a parameter and update it's value.*/
+/**A function that takes a pointer
+ *@n: value of pointer
+ *to an int as a parameter and update it's value
+ */
 
 void reset_to_98(int *n)
 {
